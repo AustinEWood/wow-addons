@@ -1,0 +1,8 @@
+## Interface: 120001
+## Title: CleanView
+## Author: awood
+## Version: 0.1.0
+## Notes: Quickly hide UI elements for immersive exploration.
+## SavedVariables: CleanViewDB
+
+CleanView.lua
